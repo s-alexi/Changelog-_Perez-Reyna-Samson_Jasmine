@@ -63,7 +63,7 @@ This will be a Changelog regarding the different versions of our game program. [
 ────୨ৎ────
 
 ##Version 1.2.2 - Sep 19, 2026
--Fixed up areas we forgot to change (When we changed our title, we forgot to edit the rest of the instances we used the title.)
+- Fixed up areas we forgot to change (When we changed our title, we forgot to edit the rest of the instances we used the title.)
 
 
 ────୨ৎ────
